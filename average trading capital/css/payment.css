@@ -1,0 +1,8 @@
+.payment div .img{
+    margin: 0rem, 3rem;
+  }
+  .img{
+    width: 7%;
+    height: auto;
+    object-fit: contain;
+  }
